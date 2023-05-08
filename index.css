@@ -20,3 +20,18 @@ label {
 div {
   margin-bottom: 30px;
 }
+
+button {
+  margin: 20px 0;
+}
+
+img {
+  width: 397px;
+  height: 127px;
+  object-fit: contain;
+}
+
+#header {
+  margin: 0 auto;
+  height: auto;
+}
